@@ -21,7 +21,9 @@ const flatten = (arrayToFlatten) => {
 <details>
 <summary>Examples</summary>
 
-```js
+```
 deepFlatten([1, [2], [[3], 4], 5]); // [1,2,3,4,5]
 ```
 </details>
+
+[Repo link](https://github.com/rasha08/array-flatten)
