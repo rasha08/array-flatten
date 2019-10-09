@@ -1,0 +1,22 @@
+{
+  "name": "array-flatten",
+  "version": "1.0.0",
+  "description": "Array flatten helper function, that uses recursion to flatten nested arrays.",
+  "main": "./src/array-flatten.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine ./test/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasha08/array-flatten.git"
+  },
+  "author": "Radovan Stevanovic <rasha08@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rasha08/array-flatten/issues"
+  },
+  "homepage": "https://github.com/rasha08/array-flatten#readme"
+}
